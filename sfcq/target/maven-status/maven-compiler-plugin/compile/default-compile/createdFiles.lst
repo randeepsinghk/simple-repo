@@ -1,0 +1,9 @@
+com\sfc\repository\StudentRepository.class
+com\sfc\greeting\HelloController.class
+com\sfc\greeting\Greeting.class
+com\Application.class
+com\sfc\greeting\StudentController.class
+com\sfc\utils\EntityUtils.class
+com\sfc\entity\Student.class
+com\sfc\greeting\GreetingController.class
+com\sfc\service\StudentService.class

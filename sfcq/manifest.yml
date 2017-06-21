@@ -1,0 +1,12 @@
+---
+applications:
+  - name: qw250994-sfc-app
+    buildpack: java_buildpack
+    path: target/sfcq-0.1.0.jar
+    memory: 512M
+    timeout : 180
+services:
+    - qw25094-postgres    
+env:
+   SPRING_PROFILES_ACTIVE : clouddev  
+   JAVA_DOCS_URL : https://predixdev.github.io/predix-microservice-cf-spring

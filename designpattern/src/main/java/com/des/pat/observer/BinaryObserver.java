@@ -1,4 +1,4 @@
-package com.des.pattern.observer;
+package com.des.pat.observer;
 
 public class BinaryObserver extends Observer {
 
